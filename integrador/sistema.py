@@ -13,7 +13,7 @@ def main():
         elif opcion == 3:
             gestion_stock.contar_categoria()
         elif opcion == 0:
-            print("Saliendo del programa...")
+            print("Saliendo del programa... \n(no me manden a diciembre porfa, suficiente con las otras materias)")
         else:
             print("Opción inválida. Por favor, elija una opción válida.")
 
