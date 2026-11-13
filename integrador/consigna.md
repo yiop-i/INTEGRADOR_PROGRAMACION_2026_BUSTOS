@@ -31,7 +31,7 @@ El stock debe estar representado por dos diccionarios:
 
  Por un lado, uno cuyas claves sean los tipos de productos que se pueden vender (frutas, congelados, panadería, enlatados...) y los valores, listas que contengan el producto en cuestión.
 
- Por otro lado, uno cuyas claves sean los mismos tipos de productos que se pueden vender (frutas, congelados, panadería, enlatados...) y los valores, listas que contengan la cantidad del producto en cuestión.
+ Por otro lado, uno cuyas claves sean los mismos tipos de productos que se pueden   vender (frutas, congelados, panadería, enlatados...) y los valores, listas que contengan la cantidad del producto en cuestión.
 
  Ej:
 
